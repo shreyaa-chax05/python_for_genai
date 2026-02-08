@@ -18,7 +18,7 @@ Hands-on practice with core Python libraries that power data processing and mode
 - Matplotlib & Seaborn for visualization
 - Common preprocessing patterns used before model training
 
-📁 `01_Python_libraries/`
+📁 01_Python_libraries.ipynb
 
 ---
 
@@ -31,7 +31,7 @@ Applied statistical analysis to develop intuition for data-driven modelling.
 - Multivariate patterns using visual analysis
 - Statistics required before ML model building
 
-📁 `02_univariate,bivarariate_and_multivariate_analysis/`
+📁 02_univariate,bivarariate_and_multivariate_analysis.ipynb
 
 ---
 
@@ -44,7 +44,7 @@ Core Python concepts revisited from an ML & GenAI usage perspective.
 - Object-Oriented Programming basics
 - Python patterns frequently used in ML projects
 
-📁 `03_Python/`
+📁 03_Python.ipynb
 
 ---
 
