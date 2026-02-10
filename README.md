@@ -1,74 +1,76 @@
-# Python for Generative AI 🚀
+# Statistics for Machine Learning 📊🤖
 
-This repository contains my structured learning of **Python foundations required for Machine Learning and Generative AI**.  
-The focus is on **practical usage, clean workflows, and statistical intuition** commonly used in real ML/GenAI codebases.
-
-The learning order is intentional and mirrors how Python is applied in industry rather than taught academically.
+This branch contains my structured learning and practice of **Statistics concepts essential for Machine Learning and GenAI**.  
+The focus is on building **strong intuition + practical understanding** rather than just formulas.
 
 ---
 
-## 📂 Repository Structure & Learning Flow
-
-### 1️⃣ Python Libraries
-Hands-on practice with core Python libraries that power data processing and model pipelines in ML & GenAI.
-
-**Includes:**
-- NumPy for numerical computing
-- Pandas for data manipulation
-- Matplotlib & Seaborn for visualization
-- Common preprocessing patterns used before model training
-
-📁 01_Python_libraries.ipynb
+## 🎯 Objective
+- Understand core statistical concepts used in ML models
+- Connect theory with real ML use-cases
+- Build intuition for data analysis, modeling, and evaluation
 
 ---
 
-### 2️⃣ Statistical Analysis (Univariate • Bivariate • Multivariate)
-Applied statistical analysis to develop intuition for data-driven modelling.
+## 📚 Topics Covered (and ongoing)
 
-**Covers:**
-- Distribution analysis & summary statistics
-- Feature relationships & correlation
-- Multivariate patterns using visual analysis
-- Statistics required before ML model building
+- Descriptive Statistics  
+  - Mean, Median, Mode  
+  - Variance & Standard Deviation  
 
-📁 02_univariate,bivarariate_and_multivariate_analysis.ipynb
+- Probability Basics  
+  - Random variables  
+  - Conditional probability  
+  - Bayes’ Theorem  
+
+- Probability Distributions  
+  - Normal, Binomial, Poisson  
+  - Real-world interpretation  
+
+- Statistical Inference  
+  - Sampling  
+  - Confidence Intervals  
+  - Hypothesis Testing  
+
+- Correlation & Covariance  
+
+- Multivariate Statistics  
+  - Feature relationships  
+  - Intro to dimensionality reduction  
+
+- Statistics used in ML  
+  - Loss functions intuition  
+  - Bias–Variance tradeoff  
+  - Evaluation metrics interpretation  
 
 ---
 
-### 3️⃣ Core Python Concepts
-Core Python concepts revisited from an ML & GenAI usage perspective.
-
-**Includes:**
-- Functions, lambdas, and iteration patterns
-- Data structures and control flow
-- Object-Oriented Programming basics
-- Python patterns frequently used in ML projects
-
-📁 03_Python.ipynb
-
----
-
-## 🎯 Purpose of This Repository
-- Build strong **Python + statistics foundations** for ML & GenAI
-- Practice libraries and concepts in a structured, reusable way
-- Create a clean, reviewable learning repository for internships and entry-level roles
-
----
-
-## 🛠️ Tech Stack
+## 🛠 Tools & Libraries
 - Python
-- Google Colab
-- NumPy, Pandas, Matplotlib, Seaborn
-- Scikit-learn (introductory usage)
-- Tensorflow
+- NumPy
+- Pandas
+- Matplotlib / Seaborn
+- Jupyter Notebook
 
 ---
 
-## 🚀 Road Ahead
-- Machine Learning algorithms
-- Deep Learning frameworks
-- Generative AI workflows
-- End-to-end ML & GenAI projects
+## 📂 Branch Context
+- This is a **learning & practice branch**
+- Notebooks may be exploratory and iterative
+- Cleaned and finalized content will be merged into `main`
 
-📌 *This repository represents continuous learning toward a career in Generative AI engineering.*
+---
+
+## 🚀 Learning Approach
+- Concept → intuition → small experiments
+- Visualizations wherever possible
+- Notes written from an ML perspective
+
+---
+
+## 📌 Note
+This branch will be updated continuously as I progress deeper into  
+Machine Learning and GenAI.
+
+
 
